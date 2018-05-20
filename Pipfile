@@ -12,6 +12,7 @@ pandas = "*"
 matplotlib = "*"
 jupyter = "*"
 scipy = "*"
+pandas-datareader = "*"
 
 
 [dev-packages]
